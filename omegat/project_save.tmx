@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230408Z" creationid="sheilagomes" creationdate="20210520T230408Z">
+        <seg>Incluir o nome da unidade de tradução nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T225553Z" creationid="sheilagomes" creationdate="20210520T225553Z">
@@ -40,8 +48,8 @@
       <tuv lang="en">
         <seg>Use the following filter parameters file:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230312Z" creationid="sheilagomes" creationdate="20210520T230312Z">
-        <seg>Use the following filter parameters file:</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230341Z" creationid="sheilagomes" creationdate="20210520T230312Z">
+        <seg>Use o seguinte arquivo de parâmetros de filtro:</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
