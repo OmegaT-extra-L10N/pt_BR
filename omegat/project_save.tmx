@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231208Z" creationid="sheilagomes" creationdate="20210520T231208Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231135Z" creationid="sheilagomes" creationdate="20210520T231124Z">
+        <seg>Erro de cópia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231232Z" creationid="sheilagomes" creationdate="20210520T231232Z">
+        <seg>Arquivos comentados Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230921Z" creationid="sheilagomes" creationdate="20210520T230921Z">
@@ -22,10 +46,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231240Z" creationid="sheilagomes" creationdate="20210520T231240Z">
+        <seg>Arquivos HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231247Z" creationid="sheilagomes" creationdate="20210520T231247Z">
+        <seg>Arquivos InDesign IDML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230408Z" creationid="sheilagomes" creationdate="20210520T230408Z">
         <seg>Incluir o nome da unidade de tradução nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231117Z" creationid="sheilagomes" creationdate="20210520T231117Z">
+        <seg>Existe um projeto aberto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231259Z" creationid="sheilagomes" creationdate="20210520T231259Z">
+        <seg>Arquivos JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231313Z" creationid="sheilagomes" creationdate="20210520T231313Z">
+        <seg>Arquivos markdown (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +104,24 @@
       <tuv lang="en">
         <seg>No Parameters File</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231020Z" creationid="sheilagomes" creationdate="20210520T231020Z">
-        <seg>Não há u arquivo de parâmetros</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231024Z" creationid="sheilagomes" creationdate="20210520T231020Z">
+        <seg>Não há um arquivo de parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231052Z" creationid="sheilagomes" creationdate="20210520T231052Z">
+        <seg>Não há pasta do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231203Z" creationid="sheilagomes" creationdate="20210520T231203Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +162,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230508Z" creationid="sheilagomes" creationdate="20210520T230508Z">
         <seg>Mostre e proteja as entradas com translate='no' (se não estiver definido: elas não são extraídos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231202Z" creationid="sheilagomes" creationdate="20210520T231130Z">
+        <seg>Desculpe, houve um problema ao copiar o arquivo de parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231040Z" creationid="sheilagomes" creationdate="20210520T231021Z">
+        <seg>O arquivo de parâmetros não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231105Z" creationid="sheilagomes" creationdate="20210520T231105Z">
+        <seg>Não foi possível determinar a pasta do projeto.</seg>
       </tuv>
     </tu>
     <tu>
