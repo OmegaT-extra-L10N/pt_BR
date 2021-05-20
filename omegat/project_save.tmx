@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230921Z" creationid="sheilagomes" creationdate="20210520T230921Z">
+        <seg>Arquivos de parâmetros de filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T225946Z" creationid="sheilagomes" creationdate="20210520T225946Z">
@@ -18,6 +26,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230408Z" creationid="sheilagomes" creationdate="20210520T230408Z">
         <seg>Incluir o nome da unidade de tradução nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230933Z" creationid="sheilagomes" creationdate="20210520T230933Z">
+        <seg>Caminho ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231020Z" creationid="sheilagomes" creationdate="20210520T231020Z">
+        <seg>Não há u arquivo de parâmetros</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +98,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230341Z" creationid="sheilagomes" creationdate="20210520T230312Z">
         <seg>Use o seguinte arquivo de parâmetros de filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230955Z" creationid="sheilagomes" creationdate="20210520T230955Z">
+        <seg>Você precisa especificar um caminho.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
