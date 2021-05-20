@@ -12,6 +12,14 @@
         <seg>Opções de filtro Okapi</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T225653Z" creationid="sheilagomes" creationdate="20210520T225653Z">
+        <seg>Opções de filtro XLIFF Okapi</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
