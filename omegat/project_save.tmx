@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230543Z" creationid="sheilagomes" creationdate="20210520T230543Z">
+        <seg>Proteja as entradas com state='final' (se não for definido: elas podem ser editados)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230910Z" creationid="sheilagomes" creationdate="20210520T230910Z">
+        <seg>Selecionar um arquivo de parâmetros de filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230508Z" creationid="sheilagomes" creationdate="20210520T230508Z">
+        <seg>Mostre e proteja as entradas com translate='no' (se não estiver definido: elas não são extraídos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230009Z" creationid="sheilagomes" creationdate="20210520T230009Z">
