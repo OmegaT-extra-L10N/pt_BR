@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210048Z" creationid="sheilagomes" creationdate="20210521T210048Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231208Z" creationid="sheilagomes" creationdate="20210520T231208Z">
@@ -38,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210122Z" creationid="sheilagomes" creationdate="20210521T210122Z">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete unpacked OMT Package</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205838Z" creationid="sheilagomes" creationdate="20210521T205838Z">
@@ -50,6 +66,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210006Z" creationid="sheilagomes" creationdate="20210521T210006Z">
         <seg>Excluindo projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210105Z" creationid="sheilagomes" creationdate="20210521T210105Z">
+        <seg>Direção:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210114Z" creationid="sheilagomes" creationdate="20210521T210114Z">
+        <seg>Para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231232Z" creationid="sheilagomes" creationdate="20210520T231232Z">
         <seg>Arquivos comentados Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210051Z" creationid="sheilagomes" creationdate="20210521T210051Z">
+        <seg>Erro</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210056Z" creationid="sheilagomes" creationdate="20210521T210056Z">
+        <seg>Encontrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143929Z" creationid="sheilagomes" creationdate="20210521T143929Z">
@@ -114,6 +162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143926Z" creationid="sheilagomes" creationdate="20210521T143926Z">
         <seg>Problemas com correspondências parciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210014Z" creationid="sheilagomes" creationdate="20210521T210014Z">
+        <seg>Acessar linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +222,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210024Z" creationid="sheilagomes" creationdate="20210521T210024Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210023Z" creationid="sheilagomes" creationdate="20210521T210023Z">
+        <seg>Número da linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231313Z" creationid="sheilagomes" creationdate="20210520T231313Z">
         <seg>Arquivos markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210308Z" creationid="sheilagomes" creationdate="20210521T210128Z">
+        <seg>Correspondência de maiúsculas e minúsculas</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143834Z" creationid="sheilagomes" creationdate="20210521T143834Z">
         <seg>Nenhum elemento no arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210046Z" creationid="sheilagomes" creationdate="20210521T210046Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210038Z" creationid="sheilagomes" creationdate="20210521T210038Z">
+        <seg>Insira um número inteiro entre 1 e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230543Z" creationid="sheilagomes" creationdate="20210520T230543Z">
@@ -338,6 +434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T125445Z" creationid="sheilagomes" creationdate="20210521T121207Z">
         <seg>Arquivos TS do Qt (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210058Z" creationid="sheilagomes" creationdate="20210521T210058Z">
+        <seg>Substituir</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210118Z" creationid="sheilagomes" creationdate="20210521T210118Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231105Z" creationid="sheilagomes" creationdate="20210520T231105Z">
@@ -470,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210110Z" creationid="sheilagomes" creationdate="20210521T210110Z">
+        <seg>Para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154015Z" creationid="sheilagomes" creationdate="20210521T154015Z">
@@ -490,6 +610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230341Z" creationid="sheilagomes" creationdate="20210520T230312Z">
         <seg>Use o seguinte arquivo de parâmetros de filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210216Z" creationid="sheilagomes" creationdate="20210521T210216Z">
+        <seg>Whole word</seg>
       </tuv>
     </tu>
     <tu>
