@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143929Z" creationid="sheilagomes" creationdate="20210521T143929Z">
+        <seg>Correspondências parciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143926Z" creationid="sheilagomes" creationdate="20210521T143926Z">
+        <seg>Problemas com correspondências parciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231240Z" creationid="sheilagomes" creationdate="20210520T231240Z">
@@ -142,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T153944Z" creationid="sheilagomes" creationdate="20210521T153944Z">
+        <seg>Arquivo de pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T225553Z" creationid="sheilagomes" creationdate="20210520T225553Z">
@@ -162,6 +186,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231325Z" creationid="sheilagomes" creationdate="20210520T231325Z">
         <seg>Arquivos OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144050Z" creationid="sheilagomes" creationdate="20210521T144050Z">
+        <seg>Compactar e excluir projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144029Z" creationid="sheilagomes" creationdate="20210521T144029Z">
+        <seg>Compactar projeto como arquivo OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +230,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143952Z" creationid="sheilagomes" creationdate="20210521T143952Z">
+        <seg>Segmento começando com um prefixo de correspondência parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230910Z" creationid="sheilagomes" creationdate="20210520T230910Z">
         <seg>Selecionar um arquivo de parâmetros de filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144129Z" creationid="sheilagomes" creationdate="20210521T144129Z">
+        <seg>Selecionar localização e nome do pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144108Z" creationid="sheilagomes" creationdate="20210521T144108Z">
+        <seg>Selecionar o pacote OMT para importar</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144017Z" creationid="sheilagomes" creationdate="20210521T144017Z">
+        <seg>Descompactar projeto do arquivo OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230009Z" creationid="sheilagomes" creationdate="20210520T230009Z">
@@ -306,6 +378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143908Z" creationid="sheilagomes" creationdate="20210521T143842Z">
         <seg>Arquivos XML (Okapi - Filtro XML Stream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143914Z" creationid="sheilagomes" creationdate="20210521T143914Z">
+        <seg>Arquivos YAML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
