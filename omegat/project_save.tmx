@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143821Z" creationid="sheilagomes" creationdate="20210521T143821Z">
+        <seg>Não foi encontrado nenhum elemento &lt;xliff&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Parameters File</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231024Z" creationid="sheilagomes" creationdate="20210520T231020Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231052Z" creationid="sheilagomes" creationdate="20210520T231052Z">
         <seg>Não há pasta do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143834Z" creationid="sheilagomes" creationdate="20210521T143834Z">
+        <seg>Nenhum elemento no arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +290,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T125518Z" creationid="sheilagomes" creationdate="20210521T125518Z">
         <seg>Arquivos XLIFF-2 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143849Z" creationid="sheilagomes" creationdate="20210521T143840Z">
+        <seg>Arquivos XML (Okapi - Filtro XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143908Z" creationid="sheilagomes" creationdate="20210521T143842Z">
+        <seg>Arquivos XML (Okapi - Filtro XML Stream</seg>
       </tuv>
     </tu>
     <tu>
