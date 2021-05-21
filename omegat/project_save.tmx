@@ -142,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231325Z" creationid="sheilagomes" creationdate="20210520T231325Z">
+        <seg>Arquivos OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230543Z" creationid="sheilagomes" creationdate="20210520T230543Z">
         <seg>Proteja as entradas com state='final' (se não for definido: elas podem ser editados)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231337Z" creationid="sheilagomes" creationdate="20210520T231337Z">
+        <seg>Arquivos SDL-XLIFF (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
