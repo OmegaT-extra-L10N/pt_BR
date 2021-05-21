@@ -214,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143800Z" creationid="sheilagomes" creationdate="20210521T143800Z">
+        <seg>O atributo de versão está ausente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T125501Z" creationid="sheilagomes" creationdate="20210521T125501Z">
+        <seg>Arquivos do projeto Transifex (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231105Z" creationid="sheilagomes" creationdate="20210520T231105Z">
@@ -242,6 +258,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T121233Z" creationid="sheilagomes" creationdate="20210521T121233Z">
         <seg>Arquivos TXML do Wordfast Pro (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T125509Z" creationid="sheilagomes" creationdate="20210521T125509Z">
+        <seg>Arquivos XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T125518Z" creationid="sheilagomes" creationdate="20210521T125518Z">
+        <seg>Arquivos XLIFF-2 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
