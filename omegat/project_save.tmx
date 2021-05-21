@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210349Z" creationid="sheilagomes" creationdate="20210521T210349Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210051Z" creationid="sheilagomes" creationdate="20210521T210051Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210023Z" creationid="sheilagomes" creationdate="20210521T210023Z">
         <seg>Número da linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210342Z" creationid="sheilagomes" creationdate="20210521T210326Z">
+        <seg>M</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210316Z" creationid="sheilagomes" creationdate="20210521T210316Z">
+        <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210058Z" creationid="sheilagomes" creationdate="20210521T210058Z">
@@ -614,10 +638,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210334Z" creationid="sheilagomes" creationdate="20210521T210334Z">
+        <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whole word</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210216Z" creationid="sheilagomes" creationdate="20210521T210216Z">
-        <seg>Whole word</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210314Z" creationid="sheilagomes" creationdate="20210521T210216Z">
+        <seg>Palavra inteira</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T121233Z" creationid="sheilagomes" creationdate="20210521T121233Z">
         <seg>Arquivos TXML do Wordfast Pro (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210358Z" creationid="sheilagomes" creationdate="20210521T210358Z">
+        <seg>Quebra</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230955Z" creationid="sheilagomes" creationdate="20210520T230955Z">
         <seg>Você precisa especificar um caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210916Z" creationid="sheilagomes" creationdate="20210521T210916Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
