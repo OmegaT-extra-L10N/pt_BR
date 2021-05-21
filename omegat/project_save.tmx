@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T121207Z" creationid="sheilagomes" creationdate="20210521T121207Z">
+        <seg>Arquivos Qt TS (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231337Z" creationid="sheilagomes" creationdate="20210520T231337Z">
@@ -190,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T121246Z" creationid="sheilagomes" creationdate="20210521T121218Z">
+        <seg>Arquivos TTX do TagEditor (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231040Z" creationid="sheilagomes" creationdate="20210520T231021Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230341Z" creationid="sheilagomes" creationdate="20210520T230312Z">
         <seg>Use o seguinte arquivo de parâmetros de filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T121233Z" creationid="sheilagomes" creationdate="20210521T121233Z">
+        <seg>Arquivos TXML do Wordfast Pro (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
