@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154128Z" creationid="sheilagomes" creationdate="20210521T154128Z">
+        <seg>Já existe outro pacote com o mesmo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231208Z" creationid="sheilagomes" creationdate="20210520T231208Z">
@@ -18,6 +26,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231135Z" creationid="sheilagomes" creationdate="20210520T231124Z">
         <seg>Erro de cópia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154036Z" creationid="sheilagomes" creationdate="20210521T154036Z">
+        <seg>Criando novo projeto a partir do pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154104Z" creationid="sheilagomes" creationdate="20210521T154104Z">
+        <seg>Quer sobrescrever com a tradução do pacote?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154140Z" creationid="sheilagomes" creationdate="20210521T154140Z">
+        <seg>Você quer sobrescrever este pacote?</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T230408Z" creationid="sheilagomes" creationdate="20210520T230408Z">
         <seg>Incluir o nome da unidade de tradução nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154001Z" creationid="sheilagomes" creationdate="20210521T154001Z">
+        <seg>Pacote OMT inválido, arquivo "omegat.project" ausente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154203Z" creationid="sheilagomes" creationdate="20210521T154203Z">
+        <seg>O pacote OMT foi criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T225553Z" creationid="sheilagomes" creationdate="20210520T225553Z">
@@ -186,6 +234,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T231325Z" creationid="sheilagomes" creationdate="20210520T231325Z">
         <seg>Arquivos OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154153Z" creationid="sheilagomes" creationdate="20210521T154153Z">
+        <seg>Sobrescrever pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154118Z" creationid="sheilagomes" creationdate="20210521T154118Z">
+        <seg>Sobrescrever o arquivo project_save.tmx</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154052Z" creationid="sheilagomes" creationdate="20210521T154052Z">
+        <seg>O projeto já tem uma tradução em andamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The version attribute is missing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T143800Z" creationid="sheilagomes" creationdate="20210521T143800Z">
@@ -322,6 +394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144017Z" creationid="sheilagomes" creationdate="20210521T144017Z">
         <seg>Descompactar projeto do arquivo OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154015Z" creationid="sheilagomes" creationdate="20210521T154015Z">
+        <seg>Atualizando o projeto atual com o conteúdo do pacote OMT</seg>
       </tuv>
     </tu>
     <tu>
