@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205838Z" creationid="sheilagomes" creationdate="20210521T205838Z">
+        <seg>Excluir pacote OMT descompactado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T210006Z" creationid="sheilagomes" creationdate="20210521T210006Z">
+        <seg>Excluindo projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205820Z" creationid="sheilagomes" creationdate="20210521T205820Z">
+        <seg>Você quer excluir o pacote OMT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to overwrite it with the translation from the package ?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T154104Z" creationid="sheilagomes" creationdate="20210521T154104Z">
@@ -222,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205917Z" creationid="sheilagomes" creationdate="20210521T205917Z">
+        <seg>Pacote OMT importado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205955Z" creationid="sheilagomes" creationdate="20210521T205955Z">
+        <seg>Projeto OMT compactado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T225553Z" creationid="sheilagomes" creationdate="20210520T225553Z">
@@ -274,6 +314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144029Z" creationid="sheilagomes" creationdate="20210521T144029Z">
         <seg>Compactar projeto como arquivo OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205933Z" creationid="sheilagomes" creationdate="20210521T205933Z">
+        <seg>Compactando projeto OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T144017Z" creationid="sheilagomes" creationdate="20210521T144017Z">
         <seg>Descompactar projeto do arquivo OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205906Z" creationid="sheilagomes" creationdate="20210521T205906Z">
+        <seg>Descompactanoo pacote OMT...</seg>
       </tuv>
     </tu>
     <tu>
