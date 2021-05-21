@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T205655Z" creationid="sheilagomes" creationdate="20210521T205655Z">
+        <seg>Pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210521T153944Z" creationid="sheilagomes" creationdate="20210521T153944Z">
